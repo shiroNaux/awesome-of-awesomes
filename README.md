@@ -19,6 +19,7 @@ A list of awesome that list awesome opensource repo
 2. [checkcheckzz/system-design-interview: System design interview for IT companies (github.com)](https://github.com/checkcheckzz/system-design-interview)
 
 ## Programming learning resouces
+1. [TheNumbat/Lists: Bookmarks in graphics, algorithms, low level programming, math, languages (github.com)](https://github.com/TheNumbat/Lists)
 
 ## Others
 1. [adrianlarion/useful-sed: Useful sed scripts & patterns. (github.com)](https://github.com/adrianlarion/useful-sed)
