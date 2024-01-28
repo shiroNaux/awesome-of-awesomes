@@ -5,6 +5,7 @@ A list of awesome that list awesome opensource repo
 ## Tổng hợp
 1. [RunaCapital/awesome-oss-alternatives: Awesome list of open-source startup alternatives to well-known SaaS products 🚀 (github.com)](https://github.com/RunaCapital/awesome-oss-alternatives)
 2. [sindresorhus/awesome: 😎 Awesome lists about all kinds of interesting topics (github.com)](https://github.com/sindresorhus/awesome)
+3. [shiroNaux/awesome-of-awesomes: A list of awesome that list awesome opensource repo (github.com)](https://github.com/shiroNaux/awesome-of-awesomes)
 
 ## Data Engineering
 1. [pditommaso/awesome-pipeline: A curated list of awesome pipeline toolkits inspired by Awesome Sysadmin (github.com)](https://github.com/pditommaso/awesome-pipeline)
