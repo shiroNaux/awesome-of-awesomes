@@ -1,2 +1,24 @@
 # awesome-of-awesomes
 A list of awesome that list awesome opensource repo
+<br>
+
+## Tổng hợp
+1. [RunaCapital/awesome-oss-alternatives: Awesome list of open-source startup alternatives to well-known SaaS products 🚀 (github.com)](https://github.com/RunaCapital/awesome-oss-alternatives)
+2. [sindresorhus/awesome: 😎 Awesome lists about all kinds of interesting topics (github.com)](https://github.com/sindresorhus/awesome)
+
+## Data Engineering
+1. [pditommaso/awesome-pipeline: A curated list of awesome pipeline toolkits inspired by Awesome Sysadmin (github.com)](https://github.com/pditommaso/awesome-pipeline)
+2. [newTendermint/awesome-bigdata: A curated list of awesome big data frameworks, ressources and other awesomeness. (github.com)](https://github.com/newTendermint/awesome-bigdata)
+3. [meirwah/awesome-workflow-engines: A curated list of awesome open source workflow engines (github.com)](https://github.com/meirwah/awesome-workflow-engines)
+4. [igorbarinov/awesome-data-engineering: A curated list of data engineering tools for software developers (github.com)](https://github.com/igorbarinov/awesome-data-engineering)
+5. [victorcouste/data-tools: Data Tools Subjective List (github.com)](https://github.com/victorcouste/data-tools)
+
+
+## System design & Software Architecture
+1. [karanpratapsingh/system-design: Learn how to design systems at scale and prepare for system design interviews (github.com)](https://github.com/karanpratapsingh/system-design)
+2. [checkcheckzz/system-design-interview: System design interview for IT companies (github.com)](https://github.com/checkcheckzz/system-design-interview)
+
+## Programming learning resouces
+
+## Others
+1. [adrianlarion/useful-sed: Useful sed scripts & patterns. (github.com)](https://github.com/adrianlarion/useful-sed)
