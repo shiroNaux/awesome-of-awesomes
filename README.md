@@ -13,6 +13,7 @@ A list of awesome that list awesome opensource repo
 3. [meirwah/awesome-workflow-engines: A curated list of awesome open source workflow engines (github.com)](https://github.com/meirwah/awesome-workflow-engines)
 4. [igorbarinov/awesome-data-engineering: A curated list of data engineering tools for software developers (github.com)](https://github.com/igorbarinov/awesome-data-engineering)
 5. [victorcouste/data-tools: Data Tools Subjective List (github.com)](https://github.com/victorcouste/data-tools)
+6. [pracdata/awesome-open-source-data-engineering: A curated list of open source tools used in analytical stacks and data engineering ecosystem (github.com)](https://github.com/pracdata/awesome-open-source-data-engineering)
 
 
 ## System design & Software Architecture
