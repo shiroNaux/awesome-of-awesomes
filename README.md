@@ -28,6 +28,7 @@ A list of awesome that list awesome opensource repo
 
 ## AI/ML/DS
 1. [BradyFU/Awesome-Multimodal-Large-Language-Models: :sparkles::sparkles:Latest Papers and Datasets on Multimodal Large Language Models, and Their Evaluation. (github.com)](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
+2. [yunlong10/Awesome-LLMs-for-Video-Understanding: 🔥🔥🔥Latest Papers, Codes and Datasets on Vid-LLMs. (github.com)](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding)
 
 ## Security
 1. [https://github.com/ByteSnipers/awesome-pentest-cheat-sheets](https://github.com/ByteSnipers/awesome-pentest-cheat-sheets)https://github.com/ByteSnipers/awesome-pentest-cheat-sheets
