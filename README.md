@@ -33,3 +33,5 @@ A list of awesome that list awesome opensource repo
 ## Security
 1. [https://github.com/ByteSnipers/awesome-pentest-cheat-sheets](https://github.com/ByteSnipers/awesome-pentest-cheat-sheets)https://github.com/ByteSnipers/awesome-pentest-cheat-sheets
 
+# Not github but awesome 😀😀😀
+1. [LLMs Meet SQL: Revolutionizing Data Querying with Natural Language Processing | by Senthil E | Mar, 2024 | Level Up Coding (gitconnected.com)](https://levelup.gitconnected.com/llms-meet-sql-revolutionizing-data-querying-with-natural-language-processing-52487337f043)
