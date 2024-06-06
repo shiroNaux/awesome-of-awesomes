@@ -34,9 +34,12 @@ A list of awesome that list awesome opensource repo
 
 ## Security
 1. [https://github.com/ByteSnipers/awesome-pentest-cheat-sheets](https://github.com/ByteSnipers/awesome-pentest-cheat-sheets)https://github.com/ByteSnipers/awesome-pentest-cheat-sheets
+2. [TupleType/awesome-cicd-attacks: Practical resources for offensive CI/CD security research. Curated the best resources I've seen since 2021. (github.com)](https://github.com/TupleType/awesome-cicd-attacks)
 
-# Awesome 😍😍😍
+# Awesomesssss 😍😍😍
 1. [ivbeg/awesome-status-pages: Awesome list of status page open source software, services and public status pages of major internet companies (github.com)](https://github.com/ivbeg/awesome-status-pages)
 2. [aleixmorgadas/awesome-engineering-strategy: 🎉 How to design and execute engineering strategies for tech leadership. (github.com)](https://github.com/aleixmorgadas/awesome-engineering-strategy)
+3. [agarrharr/awesome-cli-apps: 🖥 📊 🕹 🛠 A curated list of command line apps (github.com)](https://github.com/agarrharr/awesome-cli-apps)
+
 # Not github but awesome 😀😀😀
 1. [Discover Open Source Alternatives to Popular Software – OpenAlternative](https://openalternative.co/)
