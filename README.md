@@ -31,10 +31,12 @@ A list of awesome that list awesome opensource repo
 ## AI/ML/DS
 1. [BradyFU/Awesome-Multimodal-Large-Language-Models: :sparkles::sparkles:Latest Papers and Datasets on Multimodal Large Language Models, and Their Evaluation. (github.com)](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
 2. [yunlong10/Awesome-LLMs-for-Video-Understanding: 🔥🔥🔥Latest Papers, Codes and Datasets on Vid-LLMs. (github.com)](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding)
+3. [zenml-io/awesome-open-data-annotation: Open Source Data Annotation & Labeling Tools (github.com)](https://github.com/zenml-io/awesome-open-data-annotation)
 
 ## Security
 1. [https://github.com/ByteSnipers/awesome-pentest-cheat-sheets](https://github.com/ByteSnipers/awesome-pentest-cheat-sheets)https://github.com/ByteSnipers/awesome-pentest-cheat-sheets
 2. [TupleType/awesome-cicd-attacks: Practical resources for offensive CI/CD security research. Curated the best resources I've seen since 2021. (github.com)](https://github.com/TupleType/awesome-cicd-attacks)
+3. [jassics/awesome-aws-security: Curated list of links, references, books videos, tutorials (Free or Paid), Exploit, CTFs, Hacking Practices etc. which are related to AWS Security (github.com)](https://github.com/jassics/awesome-aws-security)
 
 # Awesomesssss 😍😍😍
 1. [ivbeg/awesome-status-pages: Awesome list of status page open source software, services and public status pages of major internet companies (github.com)](https://github.com/ivbeg/awesome-status-pages)
