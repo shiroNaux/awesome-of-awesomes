@@ -17,6 +17,7 @@ A list of awesome that list awesome opensource repo
 
 ## Database
 1. [oskardudycz/PostgreSQL-Is-Awesome: Resources I found during my journey with PostgreSQL. (github.com)](https://github.com/oskardudycz/PostgreSQL-Is-Awesome)
+2. [davidgasquez/awesome-duckdb: 🦆 A curated list of awesome DuckDB resources (github.com)](https://github.com/davidgasquez/awesome-duckdb)
 
 ## System design & Software Architecture
 1. [karanpratapsingh/system-design: Learn how to design systems at scale and prepare for system design interviews (github.com)](https://github.com/karanpratapsingh/system-design)
