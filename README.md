@@ -22,6 +22,7 @@ A list of awesome that list awesome opensource repo
 ## System design & Software Architecture
 1. [karanpratapsingh/system-design: Learn how to design systems at scale and prepare for system design interviews (github.com)](https://github.com/karanpratapsingh/system-design)
 2. [checkcheckzz/system-design-interview: System design interview for IT companies (github.com)](https://github.com/checkcheckzz/system-design-interview)
+3. [mehdihadeli/awesome-software-architecture: 🚀 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles. (github.com)](https://github.com/mehdihadeli/awesome-software-architecture)
 
 ## Programming learning resouces
 1. [TheNumbat/Lists: Bookmarks in graphics, algorithms, low level programming, math, languages (github.com)](https://github.com/TheNumbat/Lists)
