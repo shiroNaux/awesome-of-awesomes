@@ -47,3 +47,4 @@ A list of awesome that list awesome opensource repo
 
 # Not github but awesome 😀😀😀
 1. [Discover Open Source Alternatives to Popular Software – OpenAlternative](https://openalternative.co/)
+2. [19 GitHub Repositories Every Developer Should Bookmark 📚👍 (hashnode.dev)](https://madza.hashnode.dev/19-github-repositories-every-developer-should-bookmark)
