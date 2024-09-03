@@ -14,6 +14,7 @@ A list of awesome that list awesome opensource repo
 4. [igorbarinov/awesome-data-engineering: A curated list of data engineering tools for software developers (github.com)](https://github.com/igorbarinov/awesome-data-engineering)
 5. [victorcouste/data-tools: Data Tools Subjective List (github.com)](https://github.com/victorcouste/data-tools)
 6. [pracdata/awesome-open-source-data-engineering: A curated list of open source tools used in analytical stacks and data engineering ecosystem (github.com)](https://github.com/pracdata/awesome-open-source-data-engineering)
+7. [oxnr/awesome-bigdata: A curated list of awesome big data frameworks, ressources and other awesomeness. (github.com)](https://github.com/oxnr/awesome-bigdata)
 
 ## Database
 1. [oskardudycz/PostgreSQL-Is-Awesome: Resources I found during my journey with PostgreSQL. (github.com)](https://github.com/oskardudycz/PostgreSQL-Is-Awesome)
