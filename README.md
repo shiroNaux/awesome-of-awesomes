@@ -7,6 +7,7 @@ A list of awesome that list awesome opensource repo
 2. [sindresorhus/awesome: 😎 Awesome lists about all kinds of interesting topics (github.com)](https://github.com/sindresorhus/awesome)
 3. [shiroNaux/awesome-of-awesomes: A list of awesome that list awesome opensource repo (github.com)](https://github.com/shiroNaux/awesome-of-awesomes)
 4. [awesome-foss/awesome-sysadmin: A curated list of amazingly awesome open-source sysadmin resources.](https://github.com/awesome-foss/awesome-sysadmin)
+5. [weaveworks/awesome-gitops: A curated list for awesome GitOps resources](https://github.com/weaveworks/awesome-gitops)
 
 ## Data Engineering
 1. [pditommaso/awesome-pipeline: A curated list of awesome pipeline toolkits inspired by Awesome Sysadmin (github.com)](https://github.com/pditommaso/awesome-pipeline)
