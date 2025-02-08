@@ -34,6 +34,7 @@ A list of awesome that list awesome opensource repo
 
 ## Others
 1. [adrianlarion/useful-sed: Useful sed scripts & patterns. (github.com)](https://github.com/adrianlarion/useful-sed)
+2. [kuchin/awesome-cto: A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups](https://github.com/kuchin/awesome-cto)
 
 ## AI/ML/DS
 1. [BradyFU/Awesome-Multimodal-Large-Language-Models: :sparkles::sparkles:Latest Papers and Datasets on Multimodal Large Language Models, and Their Evaluation. (github.com)](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
