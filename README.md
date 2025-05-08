@@ -51,6 +51,7 @@ A list of awesome that list awesome opensource repo
 1. [ivbeg/awesome-status-pages: Awesome list of status page open source software, services and public status pages of major internet companies (github.com)](https://github.com/ivbeg/awesome-status-pages)
 2. [aleixmorgadas/awesome-engineering-strategy: 🎉 How to design and execute engineering strategies for tech leadership. (github.com)](https://github.com/aleixmorgadas/awesome-engineering-strategy)
 3. [agarrharr/awesome-cli-apps: 🖥 📊 🕹 🛠 A curated list of command line apps (github.com)](https://github.com/agarrharr/awesome-cli-apps)
+4. [awesome-gpt4o-images/README_en.md at main · jamez-bondos/awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images/blob/main/README_en.md)
 
 # Not github but awesome 😀😀😀
 1. [Discover Open Source Alternatives to Popular Software – OpenAlternative](https://openalternative.co/)
